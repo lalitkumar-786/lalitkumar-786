@@ -1,4 +1,5 @@
-### Not a mere Coder! Along with technologies, I spent a lot of my time on soft skills and personal growth. 👋
+### Yep ! You landed on my profile 😃.
+### print(" Not a mere Coder! Along with technologies, I spent a lot of my time on soft skills and personal growth.") 👋
 ### 
 - 🔭 I’m currently working on Cloud Technologies (K8s/Docker/Containerization).
 - 🌱 I’m currently learning Go.
