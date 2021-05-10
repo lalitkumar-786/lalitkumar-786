@@ -1,4 +1,4 @@
-### Yep ! You landed on my profile 😃.
+### Don't worry! You landed on right profile 😃.
 ### print(" Not a mere Coder! Along with technologies, I spent a lot of time on enhancing my soft skills and personal growth.") 👋
 ### 
 - 🔭 I’m currently working on Cloud Technologies (K8s/Docker/Containerization).
